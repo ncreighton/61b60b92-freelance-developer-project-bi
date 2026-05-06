@@ -1,2 +1,31 @@
-# 61b60b92-freelance-developer-project-bi
-A comprehensive Notion workspace template designed for freelance business professionals. Freelance Developer Project Bidding and Client CRM Notion Template provides a complete solution for freelancing, client management, and project tracking. Features include automated tracking, customizable dashboards, real-time analytics, and seamless integration
+# Freelance Developer Project Bidding and Client CRM Notion Template
+
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/8x2cN54eP0bW09afQ8cZb1T)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/8x2cN54eP0bW09afQ8cZb1T)
+- [Buy on Gumroad](https://mythicalgamer2.gumroad.com/l/oxfqnr)
+- [Buy on Whop](https://whop.com/freelance-developer-project-bidding-and-client-crm-notion-template)
+
